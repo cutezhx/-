@@ -1,0 +1,8 @@
+https://fly.piaole.me/api/v1/client/subscribe?token=7be00d302b674d504b4e3c1e3d286e1e
+
+
+https://sub.piercecloud.org/api/v1/client/subscribe?token=b7b524dc9e98fd40b2586422fa60a008
+
+
+
+https://wanmevpn.xyz/api/v1/client/subscribe?token=78f1e301d23dbeddf7986f61ac271282
