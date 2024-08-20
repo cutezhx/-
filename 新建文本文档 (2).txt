@@ -6,3 +6,6 @@ https://sub.piercecloud.org/api/v1/client/subscribe?token=b7b524dc9e98fd40b25864
 
 
 https://wanmevpn.xyz/api/v1/client/subscribe?token=78f1e301d23dbeddf7986f61ac271282
+
+
+https://moooooo.top/api/v1/client/subscribe?token=ed76b9fd55e637c685708b0b9bff401d
